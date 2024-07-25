@@ -1993,13 +1993,13 @@ var tempI64;
 // === Body ===
 
 var ASM_CONSTS = {
-  3404560: function() {return Module.webglContextAttributes.premultipliedAlpha;},  
- 3404621: function() {return Module.webglContextAttributes.preserveDrawingBuffer;},  
- 3404685: function() {return Module.webglContextAttributes.powerPreference;},  
- 3404743: function() {Module['emscripten_get_now_backup'] = performance.now;},  
- 3404798: function($0) {performance.now = function() { return $0; };},  
- 3404846: function($0) {performance.now = function() { return $0; };},  
- 3404894: function() {performance.now = Module['emscripten_get_now_backup'];}
+  3404784: function() {return Module.webglContextAttributes.premultipliedAlpha;},  
+ 3404845: function() {return Module.webglContextAttributes.preserveDrawingBuffer;},  
+ 3404909: function() {return Module.webglContextAttributes.powerPreference;},  
+ 3404967: function() {Module['emscripten_get_now_backup'] = performance.now;},  
+ 3405022: function($0) {performance.now = function() { return $0; };},  
+ 3405070: function($0) {performance.now = function() { return $0; };},  
+ 3405118: function() {performance.now = Module['emscripten_get_now_backup'];}
 };
 
 
@@ -4740,6 +4740,10 @@ var ASM_CONSTS = {
   		}
   
           requestOptions.timeout = timeout;
+  	}
+
+  function _ShowMessage(message) {
+  		window.alert(Pointer_stringify(message));
   	}
 
   function ___assert_fail(condition, filename, line, func) {
@@ -15367,6 +15371,7 @@ var asmLibraryArg = {
   "JS_WebRequest_SetRedirectLimit": _JS_WebRequest_SetRedirectLimit,
   "JS_WebRequest_SetRequestHeader": _JS_WebRequest_SetRequestHeader,
   "JS_WebRequest_SetTimeout": _JS_WebRequest_SetTimeout,
+  "ShowMessage": _ShowMessage,
   "__assert_fail": ___assert_fail,
   "__cxa_allocate_exception": ___cxa_allocate_exception,
   "__cxa_begin_catch": ___cxa_begin_catch,
