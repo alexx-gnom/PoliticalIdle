@@ -4761,7 +4761,7 @@ var ASM_CONSTS = {
 
   function _ShowMessage(message) 
   	{
-  		window.alert(Pointer_stringify(message));
+  		window.WebApp.showAlert(`Добро пожаловать, ${message}.`);
   	}
 
   function ___assert_fail(condition, filename, line, func) {
