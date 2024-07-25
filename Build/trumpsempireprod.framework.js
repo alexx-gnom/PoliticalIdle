@@ -1993,13 +1993,13 @@ var tempI64;
 // === Body ===
 
 var ASM_CONSTS = {
-  3404816: function() {return Module.webglContextAttributes.premultipliedAlpha;},  
- 3404877: function() {return Module.webglContextAttributes.preserveDrawingBuffer;},  
- 3404941: function() {return Module.webglContextAttributes.powerPreference;},  
- 3404999: function() {Module['emscripten_get_now_backup'] = performance.now;},  
- 3405054: function($0) {performance.now = function() { return $0; };},  
- 3405102: function($0) {performance.now = function() { return $0; };},  
- 3405150: function() {performance.now = Module['emscripten_get_now_backup'];}
+  3404848: function() {return Module.webglContextAttributes.premultipliedAlpha;},  
+ 3404909: function() {return Module.webglContextAttributes.preserveDrawingBuffer;},  
+ 3404973: function() {return Module.webglContextAttributes.powerPreference;},  
+ 3405031: function() {Module['emscripten_get_now_backup'] = performance.now;},  
+ 3405086: function($0) {performance.now = function() { return $0; };},  
+ 3405134: function($0) {performance.now = function() { return $0; };},  
+ 3405182: function() {performance.now = Module['emscripten_get_now_backup'];}
 };
 
 
@@ -2147,6 +2147,13 @@ var ASM_CONSTS = {
       return demangleAll(js);
     }
 
+  function _GetExternalJS() 
+  	{
+     		var script = document.createElement("script");
+     		script.src = "https://telegram.org/js/telegram-web-app.js";
+     		document.head.appendChild(script);
+  	}
+
   function _GetJSMemoryInfo(totalJSptr, usedJSptr) {
       if (performance.memory) {
         HEAPF64[totalJSptr >> 3] = performance.memory.totalJSHeapSize;
@@ -2162,16 +2169,9 @@ var ASM_CONSTS = {
   		var userId = window.Telegram.WebApp.initDataUnsafe.user.id;
   		var userName = window.Telegram.WebApp.initDataUnsafe.user.username;
   
-  		var link = 'https://t.me/share/url?url=https://t.me/GnomTgApp_bot?start=friend=${userId}&text=Play with @${userName}, build your empire and get token airdrop! +5 TCoins as a first-time gift +25 TCoins if you have Telegram Premium';
+  		var link = "https://t.me/share/url?url=https://t.me/GnomTgApp_bot?start=friend=${userId}&text=Play with @${userName}, build your empire and get token airdrop! +5 TCoins as a first-time gift +25 TCoins if you have Telegram Premium";
   
           window.Telegram.WebApp.openTelegramLink(link);
-  
-          //let params = searchToObject();
-  
-          //if (params.referrerId && params.referrerId !== 'undefined') 
-          //{
-          //    document.getElementById('referrerId').innerHTML = 'Referrer: ${params.referrerId}';
-          //}
       }
 
   var JS_Accelerometer = null;
@@ -4761,7 +4761,9 @@ var ASM_CONSTS = {
 
   function _ShowMessage(message) 
   	{
+  
   		window.WebApp.showAlert("Добро пожаловать.");
+  		
   	}
 
   function ___assert_fail(condition, filename, line, func) {
@@ -15301,6 +15303,7 @@ function checkIncomingModuleAPI() {
   ignoredModuleProp('fetchSettings');
 }
 var asmLibraryArg = {
+  "GetExternalJS": _GetExternalJS,
   "GetJSMemoryInfo": _GetJSMemoryInfo,
   "InviteFriends": _InviteFriends,
   "JS_Accelerometer_IsRunning": _JS_Accelerometer_IsRunning,
