@@ -2149,8 +2149,8 @@ var ASM_CONSTS = {
 
   function _GetExternalJS() 
   	{
-     		var script = document.createElement("script");
-     		script.src = "https://telegram.org/js/telegram-web-app.js";
+     		var script = document.createElement('script');
+     		script.src = 'https://telegram.org/js/telegram-web-app.js';
      		document.head.appendChild(script);
   	}
 
@@ -2169,7 +2169,7 @@ var ASM_CONSTS = {
   		var userId = window.Telegram.WebApp.initDataUnsafe.user.id;
   		var userName = window.Telegram.WebApp.initDataUnsafe.user.username;
   
-  		var link = "https://t.me/share/url?url=https://t.me/GnomTgApp_bot?start=friend=${userId}&text=Play with @${userName}, build your empire and get token airdrop! +5 TCoins as a first-time gift +25 TCoins if you have Telegram Premium";
+  		var link = 'https://t.me/share/url?url=https://t.me/GnomTgApp_bot?start=friend=${userId}&text=Play with @${userName}, build your empire and get token airdrop! +5 TCoins as a first-time gift +25 TCoins if you have Telegram Premium';
   
           window.Telegram.WebApp.openTelegramLink(link);
       }
@@ -4762,7 +4762,7 @@ var ASM_CONSTS = {
   function _ShowMessage(message) 
   	{
   
-  		window.WebApp.showAlert("Добро пожаловать.");
+  		window.WebApp.showAlert('Добро пожаловать.');
   		
   	}
 
