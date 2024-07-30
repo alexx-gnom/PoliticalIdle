@@ -4762,7 +4762,7 @@ var ASM_CONSTS = {
   function _ShowMessage(message) 
   	{
   
-  		window.WebApp.showAlert('Добро пожаловать.');
+  		window.WebApp.showAlert('Hello world');
   		
   	}
 
