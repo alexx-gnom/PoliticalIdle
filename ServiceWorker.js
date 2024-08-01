@@ -1,9 +1,9 @@
 const cacheName = "MysteryTag-Trump’s Empire-1.0";
 const contentToCache = [
-    "Build/trumpsempireprod.loader.js",
-    "Build/trumpsempireprod.framework.js",
-    "Build/trumpsempireprod.data",
-    "Build/trumpsempireprod.wasm",
+    "Build/TGPoliticalTycoon.loader.js",
+    "Build/TGPoliticalTycoon.framework.js",
+    "Build/TGPoliticalTycoon.data",
+    "Build/TGPoliticalTycoon.wasm",
     "TemplateData/style.css"
 
 ];
