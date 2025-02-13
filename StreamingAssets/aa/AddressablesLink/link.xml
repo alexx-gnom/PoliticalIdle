@@ -41,6 +41,7 @@
     <type fullname="MysteryTag.PrestigeTutorial" preserve="all" />
     <type fullname="MysteryTag.ShowFPSMobile" preserve="all" />
     <type fullname="MysteryTag.SoftCheat" preserve="all" />
+    <type fullname="MysteryTag.SpecialOffersController" preserve="all" />
     <type fullname="MysteryTag.SpeedUpDeluxeItem" preserve="all" />
     <type fullname="MysteryTag.SpeedUpItem" preserve="all" />
     <type fullname="MysteryTag.StarInAppItem" preserve="all" />
