@@ -1,0 +1,256 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="CompanyTimer" preserve="all" />
+    <type fullname="ControlPropertyForAnim" preserve="all" />
+    <type fullname="MysteryTag.AchievementPopup" preserve="all" />
+    <type fullname="MysteryTag.AchievementPopupItem" preserve="all" />
+    <type fullname="MysteryTag.AchievementsItemAll" preserve="all" />
+    <type fullname="MysteryTag.AchievementsItemCompany" preserve="all" />
+    <type fullname="MysteryTag.AdsProfitBooster" preserve="all" />
+    <type fullname="MysteryTag.AdsSpeedBooster" preserve="all" />
+    <type fullname="MysteryTag.AirdropInfoItem" preserve="all" />
+    <type fullname="MysteryTag.ButtonClickSound" preserve="all" />
+    <type fullname="MysteryTag.CheatPanel" preserve="all" />
+    <type fullname="MysteryTag.Company" preserve="all" />
+    <type fullname="MysteryTag.CompanyBuyButton" preserve="all" />
+    <type fullname="MysteryTag.CompanyData" preserve="all" />
+    <type fullname="MysteryTag.CompanyUpgradeButton" preserve="all" />
+    <type fullname="MysteryTag.ContentCountLimiter" preserve="all" />
+    <type fullname="MysteryTag.DebugCanvas" preserve="all" />
+    <type fullname="MysteryTag.DebugPanel" preserve="all" />
+    <type fullname="MysteryTag.DragHandler" preserve="all" />
+    <type fullname="MysteryTag.ExchangeItem" preserve="all" />
+    <type fullname="MysteryTag.Extensions.PrefabOverridesHelper" preserve="all" />
+    <type fullname="MysteryTag.GoldTicketsExchange" preserve="all" />
+    <type fullname="MysteryTag.InvestorsCheat" preserve="all" />
+    <type fullname="MysteryTag.InvestorsClaimItem" preserve="all" />
+    <type fullname="MysteryTag.ItemTimerSlider" preserve="all" />
+    <type fullname="MysteryTag.LocationRoot" preserve="all" />
+    <type fullname="MysteryTag.MacroBonusAddSpecial" preserve="all" />
+    <type fullname="MysteryTag.MacroBonusAddStar" preserve="all" />
+    <type fullname="MysteryTag.MacroBonusController" preserve="all" />
+    <type fullname="MysteryTag.MacroBonusXProfit" preserve="all" />
+    <type fullname="MysteryTag.MacroBonusXTime" preserve="all" />
+    <type fullname="MysteryTag.MacroPpeEvent" preserve="all" />
+    <type fullname="MysteryTag.ManagerItemAutomatization" preserve="all" />
+    <type fullname="MysteryTag.ManagerItemPrestigeUpgradeCost" preserve="all" />
+    <type fullname="MysteryTag.ManagerItemQuickActivation" preserve="all" />
+    <type fullname="MysteryTag.ManagerItemSoftUpgradeCost" preserve="all" />
+    <type fullname="MysteryTag.MultiplierXItem" preserve="all" />
+    <type fullname="MysteryTag.OnLocalizedCallback" preserve="all" />
+    <type fullname="MysteryTag.PrestigeTutorial" preserve="all" />
+    <type fullname="MysteryTag.ShowFPSMobile" preserve="all" />
+    <type fullname="MysteryTag.SoftCheat" preserve="all" />
+    <type fullname="MysteryTag.SpeedUpDeluxeItem" preserve="all" />
+    <type fullname="MysteryTag.SpeedUpItem" preserve="all" />
+    <type fullname="MysteryTag.StarInAppItem" preserve="all" />
+    <type fullname="MysteryTag.StarsCheat" preserve="all" />
+    <type fullname="MysteryTag.StarterAllCompany" preserve="all" />
+    <type fullname="MysteryTag.StartTutorial" preserve="all" />
+    <type fullname="MysteryTag.TaskItemInviteFriends" preserve="all" />
+    <type fullname="MysteryTag.TaskItemJoinToTGChannel" preserve="all" />
+    <type fullname="MysteryTag.TaskItemJoinToX" preserve="all" />
+    <type fullname="MysteryTag.TaskItemJoinToYoutubeChannel" preserve="all" />
+    <type fullname="MysteryTag.TaskItemWatchYoutubeVideo" preserve="all" />
+    <type fullname="MysteryTag.TimeWarpItem" preserve="all" />
+    <type fullname="MysteryTag.TimeWarpSideBttn" preserve="all" />
+    <type fullname="MysteryTag.TopHudCurrencyButtonSpecial" preserve="all" />
+    <type fullname="MysteryTag.TopHudCurrencyButtonStar" preserve="all" />
+    <type fullname="MysteryTag.TopHudCurrencyButtonTokens" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStart6" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartAirdrop_1" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartAirdrop_2" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartBuyNextCompany" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartFirst" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartMassive" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartMgr_1" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartMultiLvlUpgd" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartUpgrade" preserve="all" />
+    <type fullname="MysteryTag.UI.AchievementsScreen" preserve="all" />
+    <type fullname="MysteryTag.UI.AchievementTab" preserve="all" />
+    <type fullname="MysteryTag.UI.AdsProfitPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.AdsSpeedPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.AdventuresScreen" preserve="all" />
+    <type fullname="MysteryTag.UI.AirDropPointsPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.AirdropTab" preserve="all" />
+    <type fullname="MysteryTag.UI.BigDigitView" preserve="all" />
+    <type fullname="MysteryTag.UI.BuyContent" preserve="all" />
+    <type fullname="MysteryTag.UI.BuyStarsPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.BuyStarsShopBttn" preserve="all" />
+    <type fullname="MysteryTag.UI.ClaimInvestorsPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.CompanyLevelView" preserve="all" />
+    <type fullname="MysteryTag.UI.CrossPromoItem" preserve="all" />
+    <type fullname="MysteryTag.UI.CrossPromoWindow" preserve="all" />
+    <type fullname="MysteryTag.UI.DealSideButton" preserve="all" />
+    <type fullname="MysteryTag.UI.DeleteAcPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.DownHudBttn" preserve="all" />
+    <type fullname="MysteryTag.UI.DownWindowCloseBttn" preserve="all" />
+    <type fullname="MysteryTag.UI.EarnMorePopup" preserve="all" />
+    <type fullname="MysteryTag.UI.ExpressTimeWarpPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.FriendItem" preserve="all" />
+    <type fullname="MysteryTag.UI.FriendsIncomePopup" preserve="all" />
+    <type fullname="MysteryTag.UI.FriendsRewardPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.FriendsScreen" preserve="all" />
+    <type fullname="MysteryTag.UI.InfoPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.InvertedMaskImage" preserve="all" />
+    <type fullname="MysteryTag.UI.InvestorsScreen" preserve="all" />
+    <type fullname="MysteryTag.UI.KeyboardBttn" preserve="all" />
+    <type fullname="MysteryTag.UI.LanguageBttn" preserve="all" />
+    <type fullname="MysteryTag.UI.LanguagePanel" preserve="all" />
+    <type fullname="MysteryTag.UI.LocationLoadBttn" preserve="all" />
+    <type fullname="MysteryTag.UI.LocationsTab" preserve="all" />
+    <type fullname="MysteryTag.UI.MacroBustersPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.ManagersScreen" preserve="all" />
+    <type fullname="MysteryTag.UI.NoCurrencyPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.NoInternetScreen" preserve="all" />
+    <type fullname="MysteryTag.UI.OfflineIncomePopup" preserve="all" />
+    <type fullname="MysteryTag.UI.PreloaderScreen" preserve="all" />
+    <type fullname="MysteryTag.UI.ProfitRewardPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.ResetWorldPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.RewardPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.ScreenOrientationLock" preserve="all" />
+    <type fullname="MysteryTag.UI.SettingsPopUp" preserve="all" />
+    <type fullname="MysteryTag.UI.ShopTab" preserve="all" />
+    <type fullname="MysteryTag.UI.SpecialOfferPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.StarsRewardPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.StatisticTab" preserve="all" />
+    <type fullname="MysteryTag.UI.TabButton" preserve="all" />
+    <type fullname="MysteryTag.UI.TabNavigation" preserve="all" />
+    <type fullname="MysteryTag.UI.TasksTab" preserve="all" />
+    <type fullname="MysteryTag.UI.TextCopied" preserve="all" />
+    <type fullname="MysteryTag.UI.TimeWarpsRewardPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.TMPGrayscalerColor" preserve="all" />
+    <type fullname="MysteryTag.UI.UiController" preserve="all" />
+    <type fullname="MysteryTag.UI.UiGrayscaler" preserve="all" />
+    <type fullname="MysteryTag.UI.UpdgadeModeButton" preserve="all" />
+    <type fullname="MysteryTag.UI.UpgradesScreen" preserve="all" />
+    <type fullname="MysteryTag.UI.WaitScreen" preserve="all" />
+    <type fullname="MysteryTag.UpgradesItemFastBuy" preserve="all" />
+    <type fullname="MysteryTag.UpgradesItemPrestigeAddLevels" preserve="all" />
+    <type fullname="MysteryTag.UpgradesItemPrestigeInvestors" preserve="all" />
+    <type fullname="MysteryTag.UpgradesItemPrestigeProfit" preserve="all" />
+    <type fullname="MysteryTag.UpgradesItemSoftInvestors" preserve="all" />
+    <type fullname="MysteryTag.UpgradesItemSoftProfit" preserve="all" />
+    <type fullname="MysteryTag.UpgradesItemToken" preserve="all" />
+    <type fullname="MysteryTag.UpgradesItemTokenProfitAll" preserve="all" />
+    <type fullname="PopIt.UI.ToggleSpriteSwap" preserve="all" />
+    <type fullname="RawImgScroll" preserve="all" />
+    <type fullname="TextLeftPosition" preserve="all" />
+    <type fullname="MysteryTag.CompanyData/MacroLevelData" preserve="nothing" serialized="true" />
+    <type fullname="MysteryTag.Extensions.BigDecimalEditor" preserve="nothing" serialized="true" />
+    <type fullname="MysteryTag.FriendsSerializedConfig/RewardSerializedConfig" preserve="nothing" serialized="true" />
+    <type fullname="MysteryTag.MacroBonusController/MacroLevelData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
+  </assembly>
+  <assembly fullname="Localization, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="ChangeFontByLanguage" preserve="all" />
+    <type fullname="I2.Loc.LocalizationParamsManager" preserve="all" />
+    <type fullname="I2.Loc.Localize" preserve="all" />
+    <type fullname="I2.Loc.RegisterGlobalParameters" preserve="all" />
+    <type fullname="I2.Loc.EventCallback" preserve="nothing" serialized="true" />
+    <type fullname="I2.Loc.LocalizationParamsManager/ParamValue" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_Dropdown" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_SpriteAsset" preserve="all" />
+    <type fullname="TMPro.TMP_StyleSheet" preserve="all" />
+    <type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionData" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionDataList" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Style" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent`1[MysteryTag.UI.UpgradeMode]" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
