@@ -5,13 +5,13 @@ let fullscreenButton = document.querySelector("#unity-fullscreen-button");
 function unityShowBanner(msg, type) {
 }
 
-let buildUrl = "/builds/Build";
+let buildUrl = "https://alexx-gnom.github.io/PoliticalIdle/Build";
 let loaderUrl = buildUrl + "/05341b76d4a90f70e910dd0a415d4c33.loader.js";
 let config = {
     dataUrl: buildUrl + "/5779bc76c88af660c14be8c1ff552ce5.data.br",
     frameworkUrl: buildUrl + "/45e7abf2b582da26b535b98ce2817fa0.framework.js.br",
     codeUrl: buildUrl + "/0b14e24e812336400d77b30b3ae84fde.wasm.br",
-    streamingAssetsUrl: "/builds/StreamingAssets",
+    streamingAssetsUrl: "https://alexx-gnom.github.io/PoliticalIdle/StreamingAssets",
     companyName: "MysteryTag",
     productName: "Trump’s Empire",
     productVersion: "1.0",
