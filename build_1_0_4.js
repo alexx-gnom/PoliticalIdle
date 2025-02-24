@@ -8,11 +8,11 @@ function unityShowBanner(msg, type) {
 let buildUrl = "https://alexx-gnom.github.io/PoliticalIdle/Build";
 let loaderUrl = buildUrl + "/05341b76d4a90f70e910dd0a415d4c33.loader.js";
 let config = {
-    dataUrl: buildUrl + "/ec4d981600026a99a357e87e0cce778f.data",
-    frameworkUrl: buildUrl + "/d7e039f0adca037aa2c11f29fe6aa404.framework.js",
-    codeUrl: buildUrl + "/85c740995d53ef5b0f0e68a6ba0170e0.wasm",
+    dataUrl: buildUrl + "/7cf30457cf206ac0e9af46e5d76624e5.data",
+    frameworkUrl: buildUrl + "/3a6c2d5d39c9092cf31219b8972ae130.framework.js",
+    codeUrl: buildUrl + "/d3dc4c0c9ab0afe61d10d4b32b172c9b.wasm",
     streamingAssetsUrl: "https://alexx-gnom.github.io/PoliticalIdle/StreamingAssets",
-    companyName: "MysteryTag",
+    companyName: "Trump’s Empire",
     productName: "Trump’s Empire",
     productVersion: "1.0",
     showBanner: unityShowBanner,

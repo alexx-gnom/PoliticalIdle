@@ -39,6 +39,7 @@
     <type fullname="MysteryTag.ManagerItemSoftUpgradeCost" preserve="all" />
     <type fullname="MysteryTag.MultiplierXItem" preserve="all" />
     <type fullname="MysteryTag.OnLocalizedCallback" preserve="all" />
+    <type fullname="MysteryTag.PresaleItem" preserve="all" />
     <type fullname="MysteryTag.PrestigeTutorial" preserve="all" />
     <type fullname="MysteryTag.ShowFPSMobile" preserve="all" />
     <type fullname="MysteryTag.SoftCheat" preserve="all" />
@@ -50,10 +51,13 @@
     <type fullname="MysteryTag.StarterAllCompany" preserve="all" />
     <type fullname="MysteryTag.StartTutorial" preserve="all" />
     <type fullname="MysteryTag.TaskItemInviteFriends" preserve="all" />
+    <type fullname="MysteryTag.TaskItemJoinToInstagram" preserve="all" />
     <type fullname="MysteryTag.TaskItemJoinToTGChannel" preserve="all" />
+    <type fullname="MysteryTag.TaskItemJoinToUniversalEntity" preserve="all" />
     <type fullname="MysteryTag.TaskItemJoinToX" preserve="all" />
     <type fullname="MysteryTag.TaskItemJoinToYoutubeChannel" preserve="all" />
     <type fullname="MysteryTag.TaskItemWatchYoutubeVideo" preserve="all" />
+    <type fullname="MysteryTag.TasksContentHolder" preserve="all" />
     <type fullname="MysteryTag.TimeWarpItem" preserve="all" />
     <type fullname="MysteryTag.TimeWarpSideBttn" preserve="all" />
     <type fullname="MysteryTag.TopHudCurrencyButtonSpecial" preserve="all" />
@@ -147,7 +151,6 @@
     <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
   </assembly>
   <assembly fullname="Localization, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="ChangeFontByLanguage" preserve="all" />
     <type fullname="I2.Loc.LocalizationParamsManager" preserve="all" />
     <type fullname="I2.Loc.Localize" preserve="all" />
     <type fullname="I2.Loc.RegisterGlobalParameters" preserve="all" />
