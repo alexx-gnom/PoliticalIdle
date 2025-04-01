@@ -37,6 +37,7 @@
     <type fullname="MysteryTag.ManagerItemPrestigeUpgradeCost" preserve="all" />
     <type fullname="MysteryTag.ManagerItemQuickActivation" preserve="all" />
     <type fullname="MysteryTag.ManagerItemSoftUpgradeCost" preserve="all" />
+    <type fullname="MysteryTag.ManagersLoader" preserve="all" />
     <type fullname="MysteryTag.MultiplierXItem" preserve="all" />
     <type fullname="MysteryTag.OnLocalizedCallback" preserve="all" />
     <type fullname="MysteryTag.PresaleItem" preserve="all" />
@@ -150,12 +151,15 @@
     <type fullname="MysteryTag.UpgradesItemSoftProfit" preserve="all" />
     <type fullname="MysteryTag.UpgradesItemToken" preserve="all" />
     <type fullname="MysteryTag.UpgradesItemTokenProfitAll" preserve="all" />
+    <type fullname="MysteryTag.UpgradesLoader" preserve="all" />
     <type fullname="PopIt.UI.ToggleSpriteSwap" preserve="all" />
     <type fullname="RawImgScroll" preserve="all" />
     <type fullname="TextLeftPosition" preserve="all" />
     <type fullname="MysteryTag.CompanyData/MacroLevelData" preserve="nothing" serialized="true" />
     <type fullname="MysteryTag.Extensions.BigDecimalEditor" preserve="nothing" serialized="true" />
     <type fullname="MysteryTag.FriendsSerializedConfig/RewardSerializedConfig" preserve="nothing" serialized="true" />
+    <type fullname="MysteryTag.ManagersLoader/Data" preserve="nothing" serialized="true" />
+    <type fullname="MysteryTag.UpgradesLoader/Data" preserve="nothing" serialized="true" />
     <type fullname="MysteryTag.MacroBonusController/MacroLevelData" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -185,6 +189,7 @@
     <type fullname="TMPro.TMP_InputField" preserve="all" />
     <type fullname="TMPro.TMP_SpriteAsset" preserve="all" />
     <type fullname="TMPro.TMP_StyleSheet" preserve="all" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
     <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
     <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
     <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
@@ -201,7 +206,6 @@
     <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_Style" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -218,11 +222,11 @@
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
-    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.UnityEvent`1[MysteryTag.UI.UpgradeMode]" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -252,15 +256,15 @@
     <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
   </assembly>
