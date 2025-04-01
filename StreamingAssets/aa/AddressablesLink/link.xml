@@ -40,7 +40,6 @@
     <type fullname="MysteryTag.MultiplierXItem" preserve="all" />
     <type fullname="MysteryTag.OnLocalizedCallback" preserve="all" />
     <type fullname="MysteryTag.PresaleItem" preserve="all" />
-    <type fullname="MysteryTag.PrestigeTutorial" preserve="all" />
     <type fullname="MysteryTag.ShowFPSMobile" preserve="all" />
     <type fullname="MysteryTag.SoftCheat" preserve="all" />
     <type fullname="MysteryTag.SpecialOffersController" preserve="all" />
@@ -49,7 +48,6 @@
     <type fullname="MysteryTag.StarInAppItem" preserve="all" />
     <type fullname="MysteryTag.StarsCheat" preserve="all" />
     <type fullname="MysteryTag.StarterAllCompany" preserve="all" />
-    <type fullname="MysteryTag.StartTutorial" preserve="all" />
     <type fullname="MysteryTag.TaskItemConnectTonWallet" preserve="all" />
     <type fullname="MysteryTag.TaskItemDailyFriends" preserve="all" />
     <type fullname="MysteryTag.TaskItemDailyLogin" preserve="all" />
@@ -68,15 +66,6 @@
     <type fullname="MysteryTag.TopHudCurrencyButtonSpecial" preserve="all" />
     <type fullname="MysteryTag.TopHudCurrencyButtonStar" preserve="all" />
     <type fullname="MysteryTag.TopHudCurrencyButtonTokens" preserve="all" />
-    <type fullname="MysteryTag.TutorialStepStart6" preserve="all" />
-    <type fullname="MysteryTag.TutorialStepStartAirdrop_1" preserve="all" />
-    <type fullname="MysteryTag.TutorialStepStartAirdrop_2" preserve="all" />
-    <type fullname="MysteryTag.TutorialStepStartBuyNextCompany" preserve="all" />
-    <type fullname="MysteryTag.TutorialStepStartFirst" preserve="all" />
-    <type fullname="MysteryTag.TutorialStepStartMassive" preserve="all" />
-    <type fullname="MysteryTag.TutorialStepStartMgr_1" preserve="all" />
-    <type fullname="MysteryTag.TutorialStepStartMultiLvlUpgd" preserve="all" />
-    <type fullname="MysteryTag.TutorialStepStartUpgrade" preserve="all" />
     <type fullname="MysteryTag.UI.AchievementsScreen" preserve="all" />
     <type fullname="MysteryTag.UI.AchievementTab" preserve="all" />
     <type fullname="MysteryTag.UI.AdsProfitPopup" preserve="all" />
@@ -107,7 +96,6 @@
     <type fullname="MysteryTag.UI.FriendsRewardPopup" preserve="all" />
     <type fullname="MysteryTag.UI.FriendsScreen" preserve="all" />
     <type fullname="MysteryTag.UI.InfoPopup" preserve="all" />
-    <type fullname="MysteryTag.UI.InvertedMaskImage" preserve="all" />
     <type fullname="MysteryTag.UI.InvestorsScreen" preserve="all" />
     <type fullname="MysteryTag.UI.KeyboardBttn" preserve="all" />
     <type fullname="MysteryTag.UI.LanguageBttn" preserve="all" />
