@@ -6,11 +6,11 @@ function unityShowBanner(msg, type) {
 }
 
 let buildUrl = "https://alexx-gnom.github.io/PoliticalIdle/Build";
-let loaderUrl = buildUrl + "/6738e9cd42b0c198e378cdebf267618e.loader.js";
+let loaderUrl = buildUrl + "/868ad3e5f43e7a2d53d450d58e45443c.loader.js";
 let config = {
-    dataUrl: buildUrl + "/f3d21d3d0798f4b0ffde1ea3592d24c3.data",
-    frameworkUrl: buildUrl + "/9d5af2b6f8930c43998e899145c06bc7.framework.js",
-    codeUrl: buildUrl + "/970f7adcf1a8465ed8a61732f7b08309.wasm",
+    dataUrl: buildUrl + "/5791ffd74ca42507f010ef705cdb2af7.data",
+    frameworkUrl: buildUrl + "/11a7b72c783d89e260000232ea651535.framework.js",
+    codeUrl: buildUrl + "/24bcd6fd6feee0b1a932c2f5139fec2b.wasm",
     streamingAssetsUrl: "https://alexx-gnom.github.io/PoliticalIdle/StreamingAssets",
     companyName: "Trump’s Empire",
     productName: "Trump’s Empire",
