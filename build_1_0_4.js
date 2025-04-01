@@ -8,7 +8,7 @@ function unityShowBanner(msg, type) {
 let buildUrl = "https://alexx-gnom.github.io/PoliticalIdle/Build";
 let loaderUrl = buildUrl + "/bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js";
 let config = {
-    dataUrl: buildUrl + "/3bf5e67970e8d11865be97db6dfa5d5b.data",
+    dataUrl: buildUrl + "/085f39eedb00d8a24f48f3a70424ef58.data",
     frameworkUrl: buildUrl + "/be359038ba615a03d3568de74c027735.framework.js",
     codeUrl: buildUrl + "/5fa33bdbb8072f94d3a79a3d4d842cc5.wasm",
     streamingAssetsUrl: "https://alexx-gnom.github.io/PoliticalIdle/StreamingAssets",
