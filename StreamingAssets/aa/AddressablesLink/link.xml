@@ -16,12 +16,10 @@
     <type fullname="MysteryTag.CompanyBuyButton" preserve="all" />
     <type fullname="MysteryTag.CompanyData" preserve="all" />
     <type fullname="MysteryTag.CompanyUpgradeButton" preserve="all" />
-    <type fullname="MysteryTag.ContentCountLimiter" preserve="all" />
     <type fullname="MysteryTag.DebugCanvas" preserve="all" />
     <type fullname="MysteryTag.DebugPanel" preserve="all" />
     <type fullname="MysteryTag.DragHandler" preserve="all" />
     <type fullname="MysteryTag.ExchangeItem" preserve="all" />
-    <type fullname="MysteryTag.Extensions.PrefabOverridesHelper" preserve="all" />
     <type fullname="MysteryTag.GoldTicketsExchange" preserve="all" />
     <type fullname="MysteryTag.InvestorsCheat" preserve="all" />
     <type fullname="MysteryTag.InvestorsClaimItem" preserve="all" />
@@ -40,6 +38,7 @@
     <type fullname="MysteryTag.MultiplierXItem" preserve="all" />
     <type fullname="MysteryTag.OnLocalizedCallback" preserve="all" />
     <type fullname="MysteryTag.PresaleItem" preserve="all" />
+    <type fullname="MysteryTag.PrestigeTutorial" preserve="all" />
     <type fullname="MysteryTag.ShowFPSMobile" preserve="all" />
     <type fullname="MysteryTag.SoftCheat" preserve="all" />
     <type fullname="MysteryTag.SpecialOffersController" preserve="all" />
@@ -48,6 +47,7 @@
     <type fullname="MysteryTag.StarInAppItem" preserve="all" />
     <type fullname="MysteryTag.StarsCheat" preserve="all" />
     <type fullname="MysteryTag.StarterAllCompany" preserve="all" />
+    <type fullname="MysteryTag.StartTutorial" preserve="all" />
     <type fullname="MysteryTag.TaskItemConnectTonWallet" preserve="all" />
     <type fullname="MysteryTag.TaskItemDailyFriends" preserve="all" />
     <type fullname="MysteryTag.TaskItemDailyLogin" preserve="all" />
@@ -66,6 +66,15 @@
     <type fullname="MysteryTag.TopHudCurrencyButtonSpecial" preserve="all" />
     <type fullname="MysteryTag.TopHudCurrencyButtonStar" preserve="all" />
     <type fullname="MysteryTag.TopHudCurrencyButtonTokens" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStart6" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartAirdrop_1" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartAirdrop_2" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartBuyNextCompany" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartFirst" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartMassive" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartMgr_1" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartMultiLvlUpgd" preserve="all" />
+    <type fullname="MysteryTag.TutorialStepStartUpgrade" preserve="all" />
     <type fullname="MysteryTag.UI.AchievementsScreen" preserve="all" />
     <type fullname="MysteryTag.UI.AchievementTab" preserve="all" />
     <type fullname="MysteryTag.UI.AdsProfitPopup" preserve="all" />
@@ -87,6 +96,7 @@
     <type fullname="MysteryTag.UI.DealSideButton" preserve="all" />
     <type fullname="MysteryTag.UI.DeleteAcPopup" preserve="all" />
     <type fullname="MysteryTag.UI.DisconnectWalletPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.DownHud" preserve="all" />
     <type fullname="MysteryTag.UI.DownHudBttn" preserve="all" />
     <type fullname="MysteryTag.UI.DownWindowCloseBttn" preserve="all" />
     <type fullname="MysteryTag.UI.EarnMorePopup" preserve="all" />
@@ -96,6 +106,7 @@
     <type fullname="MysteryTag.UI.FriendsRewardPopup" preserve="all" />
     <type fullname="MysteryTag.UI.FriendsScreen" preserve="all" />
     <type fullname="MysteryTag.UI.InfoPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.InvertedMaskImage" preserve="all" />
     <type fullname="MysteryTag.UI.InvestorsScreen" preserve="all" />
     <type fullname="MysteryTag.UI.KeyboardBttn" preserve="all" />
     <type fullname="MysteryTag.UI.LanguageBttn" preserve="all" />
@@ -130,19 +141,18 @@
     <type fullname="MysteryTag.UI.UpdgadeModeButton" preserve="all" />
     <type fullname="MysteryTag.UI.UpgradesScreen" preserve="all" />
     <type fullname="MysteryTag.UI.WaitScreen" preserve="all" />
+    <type fullname="MysteryTag.UpgradesData" preserve="all" />
+    <type fullname="MysteryTag.UpgradesItem" preserve="all" />
     <type fullname="MysteryTag.UpgradesItemFastBuy" preserve="all" />
-    <type fullname="MysteryTag.UpgradesItemPrestigeAddLevels" preserve="all" />
-    <type fullname="MysteryTag.UpgradesItemPrestigeInvestors" preserve="all" />
-    <type fullname="MysteryTag.UpgradesItemPrestigeProfit" preserve="all" />
-    <type fullname="MysteryTag.UpgradesItemSoftInvestors" preserve="all" />
-    <type fullname="MysteryTag.UpgradesItemSoftProfit" preserve="all" />
     <type fullname="MysteryTag.UpgradesItemToken" preserve="all" />
     <type fullname="MysteryTag.UpgradesItemTokenProfitAll" preserve="all" />
+    <type fullname="MysteryTag.UpgradesLogic" preserve="all" />
     <type fullname="PopIt.UI.ToggleSpriteSwap" preserve="all" />
     <type fullname="RawImgScroll" preserve="all" />
     <type fullname="TextLeftPosition" preserve="all" />
     <type fullname="MysteryTag.CompanyData/MacroLevelData" preserve="nothing" serialized="true" />
     <type fullname="MysteryTag.Extensions.BigDecimalEditor" preserve="nothing" serialized="true" />
+    <type fullname="MysteryTag.UpgradesData/Data" preserve="nothing" serialized="true" />
     <type fullname="MysteryTag.FriendsSerializedConfig/RewardSerializedConfig" preserve="nothing" serialized="true" />
     <type fullname="MysteryTag.MacroBonusController/MacroLevelData" preserve="nothing" serialized="true" />
   </assembly>
@@ -173,24 +183,24 @@
     <type fullname="TMPro.TMP_InputField" preserve="all" />
     <type fullname="TMPro.TMP_SpriteAsset" preserve="all" />
     <type fullname="TMPro.TMP_StyleSheet" preserve="all" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true" />
     <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
     <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
     <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_Dropdown/OptionData" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_Dropdown/OptionDataList" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true" />
     <type fullname="TMPro.TMP_Style" preserve="nothing" serialized="true" />
-    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.AnimationClip" preserve="all" />
@@ -206,11 +216,11 @@
     <type fullname="UnityEngine.Sprite" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
     <type fullname="UnityEngine.Transform" preserve="all" />
-    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Events.UnityEvent`1[MysteryTag.UI.UpgradeMode]" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
@@ -237,19 +247,19 @@
     <type fullname="UnityEngine.UI.Text" preserve="all" />
     <type fullname="UnityEngine.UI.Toggle" preserve="all" />
     <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
-    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
