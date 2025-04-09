@@ -20,6 +20,9 @@
     <type fullname="MysteryTag.DebugPanel" preserve="all" />
     <type fullname="MysteryTag.DragHandler" preserve="all" />
     <type fullname="MysteryTag.ExchangeItem" preserve="all" />
+    <type fullname="MysteryTag.FriendsIncomeItem" preserve="all" />
+    <type fullname="MysteryTag.FriendsPingAllItem" preserve="all" />
+    <type fullname="MysteryTag.FriendsSummaryIncomeItem" preserve="all" />
     <type fullname="MysteryTag.GoldTicketsExchange" preserve="all" />
     <type fullname="MysteryTag.InvestorsCheat" preserve="all" />
     <type fullname="MysteryTag.InvestorsClaimItem" preserve="all" />
@@ -39,6 +42,7 @@
     <type fullname="MysteryTag.OnLocalizedCallback" preserve="all" />
     <type fullname="MysteryTag.PresaleItem" preserve="all" />
     <type fullname="MysteryTag.PrestigeTutorial" preserve="all" />
+    <type fullname="MysteryTag.RewardNewFriendsInfoItem" preserve="all" />
     <type fullname="MysteryTag.ShowFPSMobile" preserve="all" />
     <type fullname="MysteryTag.SoftCheat" preserve="all" />
     <type fullname="MysteryTag.SpecialOffersController" preserve="all" />
@@ -60,12 +64,16 @@
     <type fullname="MysteryTag.TaskItemPartner" preserve="all" />
     <type fullname="MysteryTag.TaskItemWatchYoutubeVideo" preserve="all" />
     <type fullname="MysteryTag.TasksContentHolder" preserve="all" />
+    <type fullname="MysteryTag.TCoinsBuyShopItem" preserve="all" />
     <type fullname="MysteryTag.TimeWarpItem" preserve="all" />
     <type fullname="MysteryTag.TimeWarpSideBttn" preserve="all" />
+    <type fullname="MysteryTag.TonEarnShopItem" preserve="all" />
+    <type fullname="MysteryTag.TonFriendsItem" preserve="all" />
     <type fullname="MysteryTag.TonShopItem" preserve="all" />
     <type fullname="MysteryTag.TopHudCurrencyButtonSpecial" preserve="all" />
     <type fullname="MysteryTag.TopHudCurrencyButtonStar" preserve="all" />
     <type fullname="MysteryTag.TopHudCurrencyButtonTokens" preserve="all" />
+    <type fullname="MysteryTag.TopHudCurrencyButtonTON" preserve="all" />
     <type fullname="MysteryTag.TutorialStepStart6" preserve="all" />
     <type fullname="MysteryTag.TutorialStepStartAirdrop_1" preserve="all" />
     <type fullname="MysteryTag.TutorialStepStartAirdrop_2" preserve="all" />
@@ -102,7 +110,6 @@
     <type fullname="MysteryTag.UI.EarnMorePopup" preserve="all" />
     <type fullname="MysteryTag.UI.ExpressTimeWarpPopup" preserve="all" />
     <type fullname="MysteryTag.UI.FriendItem" preserve="all" />
-    <type fullname="MysteryTag.UI.FriendsIncomePopup" preserve="all" />
     <type fullname="MysteryTag.UI.FriendsRewardPopup" preserve="all" />
     <type fullname="MysteryTag.UI.FriendsScreen" preserve="all" />
     <type fullname="MysteryTag.UI.InfoPopup" preserve="all" />
@@ -135,6 +142,7 @@
     <type fullname="MysteryTag.UI.TimeWarpsRewardPopup" preserve="all" />
     <type fullname="MysteryTag.UI.TMPGrayscalerColor" preserve="all" />
     <type fullname="MysteryTag.UI.TonApplyPayPopup" preserve="all" />
+    <type fullname="MysteryTag.UI.TonTransactionPopup" preserve="all" />
     <type fullname="MysteryTag.UI.TonWalletPopup" preserve="all" />
     <type fullname="MysteryTag.UI.UiController" preserve="all" />
     <type fullname="MysteryTag.UI.UiGrayscaler" preserve="all" />
@@ -150,11 +158,13 @@
     <type fullname="PopIt.UI.ToggleSpriteSwap" preserve="all" />
     <type fullname="RawImgScroll" preserve="all" />
     <type fullname="TextLeftPosition" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitterWithMax" preserve="all" />
     <type fullname="MysteryTag.CompanyData/MacroLevelData" preserve="nothing" serialized="true" />
     <type fullname="MysteryTag.Extensions.BigDecimalEditor" preserve="nothing" serialized="true" />
+    <type fullname="MysteryTag.MacroBonusController/MacroLevelData" preserve="nothing" serialized="true" />
     <type fullname="MysteryTag.UpgradesData/Data" preserve="nothing" serialized="true" />
     <type fullname="MysteryTag.FriendsSerializedConfig/RewardSerializedConfig" preserve="nothing" serialized="true" />
-    <type fullname="MysteryTag.MacroBonusController/MacroLevelData" preserve="nothing" serialized="true" />
+    <type fullname="MysteryTag.GameTutorial/LocationDepedencies" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Coffee.UIParticle, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="Coffee.UIExtensions.UIParticle" preserve="all" />
